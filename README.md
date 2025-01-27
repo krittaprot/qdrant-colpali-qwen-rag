@@ -1,0 +1,1 @@
+# qdrant-colpali-qwen-rag
